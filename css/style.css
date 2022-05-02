@@ -474,8 +474,8 @@ footer{
    
 }
 .modal-icon{
-    width: 11px;
-    height: 11px;
+    /* width: 11px;
+    height: 11px; */
 }
 .modal-icon:hover
 /* .modal-icon:focus */
