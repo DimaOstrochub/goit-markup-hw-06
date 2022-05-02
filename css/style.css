@@ -477,8 +477,9 @@ footer{
 .modal-icon{
     display: flex;
     align-items: center;
-    width: 15px;
-    height: 15px;
+    justify-content: center;
+    width: 11px;
+    height: 11px;
 }
 
 .app-title{
