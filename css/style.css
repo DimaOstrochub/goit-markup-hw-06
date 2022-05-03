@@ -552,6 +552,7 @@ textarea{
     padding: 10px 55px;
     color: #FFFFFF;
 }
+
 .form-svg{
     position: absolute;
     width: 15px;
@@ -584,6 +585,7 @@ textarea{
     border: 1px solid #2196F3;
     box-sizing: border-box;
     border-radius: 4px;
+    fill: #2196F3;
 }
 .form-policy{
     display: flex;
